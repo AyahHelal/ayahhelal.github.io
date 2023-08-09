@@ -1,0 +1,5 @@
+<figure>
+<img class="figure" src="{{include.file}}" alt="{{include.alt}}" />
+<caption>{{include.caption}} 
+</caption>
+</figure>
