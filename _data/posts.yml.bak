@@ -6,4 +6,4 @@
 - date: 1 August, 2023
   headline: "Research Interests and Directions"
   file: \RIA\
-  abstract: "In this blog I will highlight my contributions to the fields of machine learning and nature-inspired computational techniques. "
+  abstract: "I have made significant contributions to the field of machine learning and nature-inspired computational techniques through my publications. My research journey began by introducing a tabu local search heuristic to particle swarm optimization, which effectively addressed a Quadratic Assignment Problem (QAP). I then presented further enhancements to this algorithm in subsequent papers."
