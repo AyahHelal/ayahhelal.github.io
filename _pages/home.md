@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-I'm a lecturer in Computer Science at the University of Exeter, and I wanted to share my research and experiences with others. On this blog, I'll be writing about interesting stuff I find in my research, as well as my journey as a lecturer in the UK.
+I'm a lecturer in artificial intelligence at Manchester Metropoliton Univeristy, and I wanted to share my research and experiences with others. On this blog, I'll be writing about interesting stuff I find in my research, as well as my journey as a lecturer in the UK.
 
 I hope you'll join me on this journey!
 
@@ -22,7 +22,7 @@ I hold a PhD in Computer Science from the University of Kent, where my thesis fo
 
 I also hold an MSc in Computer Science from the American University in Cairo, where my dissertation focused on optimization algorithms for QAP problems.
 
-I enjoy teaching and research, and I am always looking for new ways to apply my skills to solve real-world problems. 
+I enjoy teaching and research, and I am always looking for new ways to apply my skills to solve real-world problems. I worked in the University of Exeter for 2 years, before I moved north, and joined Manchester Metropolitan University.
 
 
 
